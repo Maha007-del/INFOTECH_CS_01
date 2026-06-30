@@ -40,10 +40,10 @@ python caesar_cipher.py
 
 **Input**
 
-Enter message: Subbu Lakshmi
+Enter message: Maha
 Enter shift value: 3
 
 **Output**
 
-Encrypted text: Vxeex Odnvkpl
-Decrypted text: Subbu Lakshmi
+Encrypted text: Pdkd
+Decrypted text: Maha
